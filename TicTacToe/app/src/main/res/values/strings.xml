@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="label_start">Start Game</string>
+    <string name="label_stop">Reset Game</string>
+    <string name="label_player1">Player1 (x)</string>
+    <string name="label_player2">Player2 (o)</string>
+    <string name="error_invalid_step">Invalid step :p. You should not make more than one step.</string>
+    <string name="msg_result">Hurray!. %1$s is Winner!!!...</string>
+    <string name="msg_game_start">%1$s Game Started!...</string>
+    <string name="msg_player_state">No of win/loss for %1$s is %2$d / %3$d</string>
+    <string name="action_ok">Ok</string>
+</resources>
